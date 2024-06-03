@@ -11,8 +11,8 @@ body, html {
 
 
 .container {
-    width: 1080px;
-    height: 1980px; /* 9/16 aspect ratio */
+    width: 100%;
+    height: 100%;
     position: relative;
     background-color: #fff;
     border: 1px solid #ccc;
